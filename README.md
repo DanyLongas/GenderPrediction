@@ -1,5 +1,5 @@
-# PrediccionDeGenero
-## Tesis para Master in Management &amp; Analytics
+# Gender Prediction
+## Final Project for Master in Management &amp; Analytics
 
+Jupyter Notebooks genereted to explore, analyse and predict the gender of customers by retrieving their User Agent data, Domains and Urls they have visited.
 
-En este repositorio se encuentran los notebooks generados para explorar, analizar y predecir género de registros de los que se tienen datos de User Agent, Dominios y Urls
